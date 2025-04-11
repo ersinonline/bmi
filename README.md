@@ -1,6 +1,6 @@
 # Vücut Kitle Endeksi Hesaplama Uygulaması
 
-[Uygulama Önizleme Bağlantısı](https://your-netlify-url.netlify.app)
+[Uygulama Önizleme Bağlantısı](bmi.teknokapsul.com)
 
 Bu uygulama, kullanıcıların boy ve kilolarını girerek vücut kitle endekslerini hesaplamalarına ve sonuçlarına göre diyet önerileri almalarına olanak sağlar.
 
